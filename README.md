@@ -10,7 +10,7 @@
 ---
 
 ###  Über MediaSoft
-**MediaSoft** entwickelt maßgeschneiderte Softwarelösungen für Unternehmen  
+MediaSoft entwickelt maßgeschneiderte Softwarelösungen für Unternehmen  
 mit Fokus auf **Stabilität, Sicherheit und Performance**.
 
 Unsere Lösungen reichen von modernen Web-Applikationen bis zu  
@@ -32,8 +32,8 @@ komplexen Desktop- und Business-Systemen.
 ---
 
 ###  Kontakt & Links
-- 🌍 Website: https://www.media-soft.com/
-- 📧 E-Mail: info@media-soft.com
+-  Website: https://www.media-soft.com/
+-  E-Mail: info@media-soft.com
 
 ---
 
